@@ -13,6 +13,9 @@ https://docs.google.com/presentation/d/1SrR-lnYcvnntul4ZiMV6FKPqvsEUkuBy/edit?us
 ## Final Project Repository
 [PACE-IN-CLASSROOMs](https://github.com/mrskjha/PACE-IN-CLASSROOMs)
 
+## Deployed Vercel Link
+https://pace-in-classroom.vercel.app/
+
 ## Project Details
 
 Our project is an interactive website that helps students and teachers learn about NASA's PACE satellite data through various engaging features:
